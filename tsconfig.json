@@ -9,12 +9,11 @@
     "rootDir": "src",
     "baseUrl": "src",
     "allowJs": true,
-    "skilLibCheck": true,
+    "skipLibCheck": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
-    "isolateModules": true,
     "noEmit": true
   },
   "include": ["src"]
